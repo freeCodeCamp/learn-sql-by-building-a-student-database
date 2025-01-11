@@ -375,3 +375,4 @@ cat courses.csv
 clear
 bash insert_data.sh
 ./insert_data.sh
+./insert_data.sh
