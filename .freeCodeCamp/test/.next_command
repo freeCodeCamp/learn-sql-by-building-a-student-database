@@ -368,3 +368,5 @@ touch insert_data.sh
 ls- l
 ls --color=auto -l
 chmod +x insert_data.sh
+ls --color=auto -l
+nano insert_data.sh
