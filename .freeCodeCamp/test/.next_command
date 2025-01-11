@@ -370,3 +370,4 @@ ls --color=auto -l
 chmod +x insert_data.sh
 ls --color=auto -l
 nano insert_data.sh
+__vsc_prompt_cmd_original
